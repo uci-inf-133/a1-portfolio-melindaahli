@@ -17,46 +17,48 @@ allowed, but the work that you produce and submit must be your own.
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+10/10
 - 1/1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
+
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features (3+)
     [x] images with alt text
-    [] headings and paragraph text
-    [] multiple pages with navigation between them
+    [x] headings and paragraph text
+    [x] multiple pages with navigation between them
     [x] links to external pages
     [x] semantic HTML tags
-    [] custom icons
+    [x] custom icons
 
 (b) CSS features (2+) 
-    [] modifying padding & margins
-    [] modifying links & (text) colors
-    [] Bootstrap CSS helpers
-    [] custom fonts with Google Fonts
+    [x] modifying padding & margins
+    [x] modifying links & (text) colors
+    [x] Bootstrap CSS helpers
+    [x] custom fonts with Google Fonts
 
 (c) Advanced features (1+)
-    [] more complex page layout with navigation bar
+    [x] more complex page layout with navigation bar
     [] embedded HTML5 media, like audio and videos WITH fallbacks
-    [] using nested selectors to specify format
-    [] contact form using HTML forms
-
+    [x] using nested selectors to specify format
+    [x] contact form using HTML forms
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an 
    accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
+    There were no warnings or errors presented by the accesibility checker.
 
 
 4. How long, in hours, did it take you to complete this assignment?
 
+    15+
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, 
@@ -67,11 +69,13 @@ allowed, but the work that you produce and submit must be your own.
     - https://www.vichetan.com/vi-work
     - https://www.oliviatruong.design/
 
-    Github Logo Attribution:
+    Github Logo Attribution
     - https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg
 
-    - https://windframe.dev/blog/how-to-use-tailwind-css-in-HTML
+    Bootstrap & CSS Help:
     - https://getbootstrap.com/
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties
+    - https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp
 
     Hero Section
     - https://www.w3schools.com/cssref/tryit.php?filename=trycss3_background_hero
@@ -80,19 +84,25 @@ allowed, but the work that you produce and submit must be your own.
     - https://getbootstrap.com/docs/5.3/components/card/
     - https://mdbootstrap.com/docs/standard/extended/horizontal-cards/
     
+    Contact Form
     - https://www.w3schools.com/html/html_forms.asp
 
-    - https://fonts.google.com/icons?selected=Material+Symbols+Outlined:mail:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=mail&icon.size=24&icon.color=%231f1f1f&icon.platform=web
+    Social Media Icon Help:
     - https://stackoverflow.com/questions/15904211/css-filter-grayscale-i-want-it-black
 
-    - https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties
-    - https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp
+    Wave in About:
+    - https://getwaves.io/
 
+    Marquee:
+    - https://ryanmulligan.dev/blog/css-marquee/#:~:text=The%20deprecated%20tag,illusion%20of%20it%20looping%20indefinitely.
+    - https://www.bennadel.com/blog/4536-creating-a-marquee-effect-with-css-animations.htm
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
+   I have not yet consulted other individuals regarding this assignment.
 
 
 7. Is there anything special we need to know in order to run your code?
 
+   No.
