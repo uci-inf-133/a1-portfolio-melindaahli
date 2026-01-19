@@ -53,7 +53,50 @@ allowed, but the work that you produce and submit must be your own.
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an 
    accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
-    There were no warnings or errors presented by the accesibility checker.
+    There were some potential warnings presented by the accesibility checker.
+
+    Potential problems that I had were:
+
+    1.1 Text Alternative
+      I ignored this warning because I believed that the alt text matched the same information as the image, 
+      the images were not decorative and thus needed an alt text attribute. Also, I felt that the images added 
+      using the img tag did not need an additional long description outside of the alt text and accompanying 
+      text on the page.
+
+    1.3 Adaptable
+      I ignored this because the problems listed stated that reading directions for languages with a different reading
+      system were needed but my entire website is in English. Also, my labels are close to my input boxes as they are
+      directly above the inputs. Text does not refer to other elements of the page by shape or other visual indicators either.
+
+    1.4 Distinguishable
+      I ignored this because I didn't refer the images only "by color," nor does the script and inputs "use color alone."
+      Images that contain text are not relevant to what they are, and thus are unneeded in the alt text.
+
+    2.1 Keyboard Accessible
+      I ignored this because request was outside the scope of what we learned, and users using the tab and enter key on the 
+      keyboard would be able to navigate the entire site.
+
+    2.3 Seizures
+      I ignored this because the current script does not behave in any way that causes screen flickers.
+    
+    2.4 Navigable
+      I ignored this because there is no content before the main section that needs to be skipped. 
+      Additionally all groups of links are marked, and the link text is representative of its destination.
+      A site map is not needed for small websites according to Google:
+      https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview
+      Also, my heading tags were used as I intended them to be used (as headers) rather than for formatting.
+    
+    3.1 Readable
+      I ignored this because my website actually does not include any words that are not English.
+
+    3.2 Predictable
+      I ignored this because repeated components always appear in the same relative order every time they appear and 
+      I don't quote at all so it would not be appropriate the use the blockquote element.
+
+    3.3 Input Assistance
+      I ignonred this because all input forms are indicated as required and give users an error message when fields are left blank.
+      Labels do in-fact describe their associated control. Inputs do describe the purpose of their function.
+      Other suggested features are beyond the scope of what we've learned.
 
 
 4. How long, in hours, did it take you to complete this assignment?
